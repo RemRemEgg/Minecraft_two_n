@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "get": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "tn:core_1"
+            }
+        }
+    },
+    "rewards": {
+        "function": "tn:get/core_1"
+    }
+}
