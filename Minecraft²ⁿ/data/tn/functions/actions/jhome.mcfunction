@@ -1,2 +1,0 @@
-execute as @s at @s facing entity @e[tag=target,limit=1,sort=nearest] eyes positioned ^ ^ ^1 rotated as @s positioned ^ ^ ^10 facing entity @s feet facing ^ ^ ^-1 positioned as @s run tp @s ~ ~ ~ ~ ~
-tag @e remove target
